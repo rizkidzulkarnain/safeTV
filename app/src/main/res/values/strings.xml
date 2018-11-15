@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">safeTV</string>
+    <string name="company_name">PT. Ultrajaya Milk Industry &amp; Trading Company</string>
+    <string name="welcome">SELAMAT DATANG DI SAFE TV</string>
+    <string name="construction">Oops! Menu currently under construction</string>
+
+    <string-array name="menu_array">
+        <item>Read Prod Batch</item>
+        <item>Menu 2</item>
+        <item>Menu 3</item>
+    </string-array>
+</resources>

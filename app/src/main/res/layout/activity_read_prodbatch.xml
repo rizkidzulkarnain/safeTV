@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+        style="@style/ParentLayoutFormStyle">
+
+    <LinearLayout style="@style/ChildLayoutFormStyle">
+        <include android:id="@+id/header" layout="@layout/component_header"/>
+        <include android:id="@+id/spPB" layout="@layout/component_spinner"/>
+        <include android:id="@+id/etWIP" layout="@layout/component_edittext"/>
+        <include android:id="@+id/etProdDesc" layout="@layout/component_edittext"/>
+        <include android:id="@+id/etBarcode" layout="@layout/component_edittext_barcode"/>
+        <include android:id="@+id/btSave" layout="@layout/component_button"/>
+    </LinearLayout>
+</ScrollView>

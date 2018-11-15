@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_padding">16dp</dimen>
+    <dimen name="default_padding_20">20dp</dimen>
+    <dimen name="default_padding_30">30dp</dimen>
+    <dimen name="big_default_padding">300dp</dimen>
+    <dimen name="medium_default_padding">150dp</dimen>
+    <dimen name="medium_default_padding_100">100dp</dimen>
+    <dimen name="medium_default_padding_50">50dp</dimen>
+    <dimen name="spinner_item_padding">10dp</dimen>
+
+    <dimen name="default_margin">16dp</dimen>
+    <dimen name="default_margin_5">5dp</dimen>
+    <dimen name="default_margin_10">10dp</dimen>
+    <dimen name="big_default_margin">300dp</dimen>
+
+    <dimen name="default_font_size">12dp</dimen>
+    <dimen name="default_font_size_16">16dp</dimen>
+    <dimen name="default_font_size_20">20dp</dimen>
+</resources>
